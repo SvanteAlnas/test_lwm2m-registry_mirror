@@ -82,7 +82,6 @@ limitations under the License.
     <Description1><![CDATA[This object provides a range of information related to updating packages on a device]]></Description1>
     <ObjectID>10252</ObjectID>
     <ObjectURN>urn:oma:lwm2m:x:10252</ObjectURN>
-    <LWM2MVersion>1.0</LWM2MVersion>
     <ObjectVersion>1.0</ObjectVersion>
     <MultipleInstances>Single</MultipleInstances>
     <Mandatory>Optional</Mandatory>
