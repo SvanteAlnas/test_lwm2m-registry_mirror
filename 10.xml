@@ -57,7 +57,7 @@ LEGAL DISCLAIMER
 		<Name>LWM2M Cellular Connectivity</Name>
 		<Description1><![CDATA[This object specifies resources to enable a device to connect to a 3GPP or 3GPP2 bearer, including GPRS/EDGE, UMTS, LTE, NB-IoT, SMS. For cellular connectivity, this object focuses on Packet Switched (PS) connectivity and doesn't aim to provide comprehensive Circuit Switched (CS) connectivity management.]]></Description1>
 		<ObjectID>10</ObjectID>
-		<ObjectURN>urn:oma:lwm2m:oma:10:1.1</ObjectURN>
+		<ObjectURN>urn:oma:lwm2m:oma:10</ObjectURN>
 		<LWM2MVersion>1.1</LWM2MVersion>
 		<ObjectVersion>1.1</ObjectVersion>
 		<MultipleInstances>Single</MultipleInstances>
