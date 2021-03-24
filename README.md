@@ -25,5 +25,10 @@ This is a public repository dedicated to store and register new LwM2M Objects. S
 7. Once your submission has been accepted it will be incorporated into the *["master"](https://github.com/OpenMobileAlliance/lwm2m-registry/tree/master)* branch and published in the repository.
 
 
+------
 
+**How to Mirror**
+- $ git clone --mirror git@example.com/upstream-repository.git
+- $ cd upstream-repository.git
+- $ git push --mirror git@example.com/new-location.git
 
